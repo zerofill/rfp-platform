@@ -1,0 +1,5 @@
+{
+  "name": "RFP & Bidding Platform",
+  "description": "A stand-alone web application for owners to post construction jobs (RFPs) and for contractors to bid. It features dynamically generated forms for contractor profiles and projects, ensuring contractors complete their profiles before accessing job listings.",
+  "requestFramePermissions": []
+}
